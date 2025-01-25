@@ -1,0 +1,10 @@
+{   
+	"Version": "1.00",
+	"FileList":"http://179.184.222.23:9091/Update/filelist.json",
+	"DownloadUpdate": "http://179.184.222.23:9091/ClientGame/",		
+	"News": [
+		"https://spard2.github.io/dayzupdate/News/0.png",
+		"https://spard2.github.io/dayzupdate/News/1.png",
+		"https://spard2.github.io/dayzupdate/News/2.png"
+	]			
+}
