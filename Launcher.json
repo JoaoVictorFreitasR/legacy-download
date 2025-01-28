@@ -1,5 +1,5 @@
 {   
-	"Version": "1.00",
+	"Version": "2.00",
 	"FileList":"http://179.184.222.23:9091/Update/filelist.json",
 	"DownloadUpdate": "http://179.184.222.23:9091/ClientGame/",		
 	"News": [
